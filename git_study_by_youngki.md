@@ -1,9 +1,9 @@
 # git 설치
-git setup  
+**git setup**  
 - VScode 에디터 설정 -> 충돌 문제 발생 시 VScode로 볼 수 있음  
 - 배쉬 온리X 윈도우 프롬프트 -> 편의를 위해 선택  
 
-GitLens  
+**GitLens**  
 - VScode 확장으로 설치, 왼쪽 사이드바 원 안에 줄기 아이콘으로 사용  
 - VScode 환경에서 변경사항, 브랜치, 리모트, 히스토리 등 Git을 편하게 확인  
 
@@ -58,7 +58,7 @@ GitLens
 - 직접 해결 -> 자동으로 해결이 안될 경우 직접 코드를 수정
 
 # git flow & git issue 실습 과정
-실습 과정 기록 -> https://blog.naver.com/ceron3804/222812092254  
+**실습 과정 기록 -> https://blog.naver.com/ceron3804/222812092254**  
 
 **1. git flow**  
 git flow 설치 유무 확인  
@@ -88,6 +88,7 @@ feature 브랜치 생성
 - to do 컬럼 -> 해야할 일  
 - in progress 컬럼 -> 진행중인 일  
 - done 컬럼 -> 끝난 일  
+
 스터디에서 3가지 컬럼을 쓰기로 약속  
 맞는 컬럼에 드래그하여 넣기  
 
